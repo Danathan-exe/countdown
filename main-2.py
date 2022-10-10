@@ -1,6 +1,3 @@
-# CSC1019-680-Fall22
-# DDEBONIS
-# 10/6/2022
 #creates the function
 def blastoff(c):
   while c > 0:
